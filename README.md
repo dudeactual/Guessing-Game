@@ -1,4 +1,6 @@
+<h1 align="center">
 # Number Guessing Game
+</h1>
 Guess the correct number to win! 
 
 ![ProjectIMG](https://raw.githubusercontent.com/dudeactual/Guessing-Game/main/Screenshot%202022-08-25%2010.08.05%20AM.png)
