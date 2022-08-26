@@ -9,7 +9,9 @@ Guess the correct number to win!
 
 ---
 <p align="center">
-The numbers range from 0-50. 
+Guessing-Game is a simple number guessing game where the numbers range from 0-50.
+  
 Repl Profile: https://replit.com/@dudeactualdev
+  
 Github: https://github.com/dudeactual
 </p>
